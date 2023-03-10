@@ -1,0 +1,6 @@
+bin/
+.vscode/
+node_modules/
+.DS_Store
+Thumbs.db
+.as3proj

@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	<meta title="Custom OpenFL index.html" package="com.feathersui.CustomIndexHtml" version="1.0.0" company="Bowler Hat LLC" />
+	<app main="SampleMain" file="CustomIndexHtml" />
+
+	<window allow-high-dpi="true"/>
+	<window fps="60"/>
+	<window fps="0" if="html5"/>
+	
+	<source path="src" />
+	
+	<haxelib name="openfl" />
+	
+	<!--
+		this directory contains a customized index.html for this project
+		the original templates included with OpenFL can be found here:
+		https://github.com/openfl/openfl/tree/develop/assets/templates
+	-->
+	<template path="custom-templates"/>
+</project>
