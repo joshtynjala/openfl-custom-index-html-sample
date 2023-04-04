@@ -12,9 +12,10 @@
 	<haxelib name="openfl" />
 	
 	<!--
-		this directory contains a customized index.html for this project
-		the original templates included with OpenFL can be found here:
+		this directory contains a customized index.html for this project.
+		the original templates included with OpenFL and Lime can be found here:
 		https://github.com/openfl/openfl/tree/develop/assets/templates
+		https://github.com/openfl/lime/tree/develop/templates
 	-->
 	<template path="custom-templates"/>
 </project>
