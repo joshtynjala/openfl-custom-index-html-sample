@@ -15,3 +15,5 @@ To confirm that the custom [_html5/template/index.html_](https://github.com/josh
 ```sh
 openfl test html5
 ```
+
+Sample created by [Josh Tynjala](https://github.com/sponsors/joshtynjala), the author of [Feathers UI](https://feathersui.com/) and core contributor to [OpenFL](https://openfl.org/).
